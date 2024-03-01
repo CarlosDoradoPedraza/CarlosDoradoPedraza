@@ -5,3 +5,6 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/CarlosDoradoPedraza/CarlosDoradoPedraza/output/snake.svg" alt="Snake animation" />
+
+###
