@@ -1,4 +1,8 @@
 ### Hi there 👋
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosDoradoPedraza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false&order=2" height="150" alt="languages graph"  />
