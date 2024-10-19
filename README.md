@@ -5,7 +5,6 @@
 I'm looking for people I can collaborate with and learn things from.
 ### 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https:///)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-dorado-pedraza/)
 ### Account stats
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosDoradoPedraza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false&order=2" height="150" alt="languages graph"  />
