@@ -2,7 +2,7 @@
 ## About Me
 👨‍💻Computer Science Student 🚀 | Aspiring Software Engineer 🌐 | Technology Enthusiast 💡
 <br>
-I'm looking for people I can collaborate with and learn things from.
+I'm looking for people I can collaborate with and build proyects together.
 ### 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https:///)
 ### Account stats
